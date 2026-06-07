@@ -14,7 +14,7 @@
             "categorie": "huiles",
             "prix": 6500,
             "description": "Anti-âge puissant, éclat immédiat",
-            "image": "../images/serum_figue.jpg"
+            "image": "images/serum_figue.jpg"
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
             "categorie": "huiles",
             "prix": 4800,
             "description": "Hydratation légère, idéale peaux sensibles, Riche en vitamines A et E",
-            "image": "../images/huile_abricot.jpg"
+            "image": "images/huile_abricot.jpg"
         },
         {
             "id": 4,
@@ -30,7 +30,7 @@
             "categorie": "savons",
             "prix": 1600,
             "description": "Pur, surgras, pour toute la famille",
-            "image": "../images/savon_olive_vierge.jpg"
+            "image": "images/savon_olive_vierge.jpg"
         },
         {
             "id": 5,
@@ -38,7 +38,7 @@
             "categorie": "savons",
             "prix": 1800,
             "description": "Douceur nourrissante au miel authentique",
-            "image": "../images/savon_miel.jpg"
+            "image": "images/savon_miel.jpg"
         },
         {
             "id": 6,
@@ -46,7 +46,7 @@
             "categorie": "savons",
             "prix":1700 ,
             "description": "Purifiant doux, idéal peaux mixtes",
-            "image": "../images/savon_argile_kabylie.jpg"
+            "image": "images/savon_argile_kabylie.jpg"
         },
         {
             "id": 7,
@@ -54,7 +54,7 @@
             "categorie": "savons",
             "prix": 1900,
             "description": "Adoucissant, respecte les peaux sensibles",
-            "image": "../images/savon_lait_chèvre.jpg "
+            "image": "images/savon_lait_chèvre.jpg "
         },
         {
             "id": 8,
@@ -62,7 +62,7 @@
             "categorie": "masques",
             "prix": 3500,
             "description": "Purifiant, illuminateur, effet bonne mine",
-            "image": "../images/masque_argile_miel.jpg"
+            "image": "images/masque_argile_miel.jpg"
         },
         {
             "id": 9,
@@ -70,7 +70,7 @@
             "categorie": "masques",
             "prix": 9000,
             "description": "Nutrition intense, réparation cutanée",
-            "image": "../images/baume_atlas.jpg"
+            "image": "images/baume_atlas.jpg"
         },
         
         {
@@ -79,7 +79,7 @@
             "categorie": "masques",
             "prix": 2800,
             "description": "Exfoliant naturel, peaux douces et lisses",
-            "image": "../images/gommage_figue.jpg"
+            "image": "images/gommage_figue.jpg"
         },
         {
             "id": 11,
@@ -87,7 +87,7 @@
             "categorie": "coffrets",
             "prix": 9500,
             "description": "Idéal pour découvrir nos essentiels : Huile d'Olive Vierge + Savon au Miel + Masque à l'Argile ",
-            "image": "../images/coffret_decouverte.jpg"
+            "image": "images/coffret_decouverte.jpg"
         },
         {
             "id": 12,
@@ -95,7 +95,7 @@
             "categorie": "coffrets",
             "prix": 12000,
             "description": "Sérum précieux à la Figue de Barbarie + Savon douceur + Masque éclat. Le rituel complet pour une peau rayonnante",
-            "image": "../images/rituel_figue.jpg"
+            "image": "images/rituel_figue.jpg"
         },
          {
             "id": 13,
@@ -103,7 +103,7 @@
             "categorie": "savons",
             "prix": 1800,
             "description": "Relaxant et réparateur.",
-            "image": "../images/savon_lavande.jpg"
+            "image": "images/savon_lavande.jpg"
         },
         {
             "id": 14,
@@ -111,7 +111,7 @@
             "categorie": "masques",
             "prix": 4000,
             "description": "Éclat et lissage instantané.",
-            "image": "../images/masque_figue.jpg"
+            "image": "images/masque_figue.jpg"
         },
         {
             "id": 15,
@@ -119,7 +119,7 @@
             "categorie": "savons",
             "prix": 1850,
             "description": "Tonifiant, bonne odeur herbacée.",
-            "image": "../images/savon_romarin.jpg"
+            "image": "images/savon_romarin.jpg"
         },
         {
             "id": 16,
@@ -127,7 +127,7 @@
             "categorie": "huiles",
             "prix": 4200,
             "description": "Purifiante et anti-imperfections. Idéale pour les peaux à tendance acnéique.",
-            "image": "../images/huile_nigelle.jpg"
+            "image": "images/huile_nigelle.jpg"
         },
         {
             "id": 17,
@@ -135,7 +135,7 @@
             "categorie": "huiles",
             "prix": 1850,
             "description": "Tonifiante et stimulante. Idéale pour les cheveux et le cuir chevelu.",
-            "image": "../images/huile_romarin.jpg"
+            "image": "images/huile_romarin.jpg"
         },
         {
             "id": 18,
@@ -143,7 +143,7 @@
             "categorie": "masques",
             "prix": 4800,
             "description": "Réparation cutanée pendant le sommeil. Purifie et régénère les peaux à imperfections.",
-            "image": "../images/soin_nigelle.jpg"
+            "image": "images/soin_nigelle.jpg"
         },
         {
             "id": 19,
@@ -151,7 +151,7 @@
             "categorie": "savons",
             "prix": 2200,
             "description": "Éclat et douceur. Le safran illumine le teint, le lait de brebis nourrit intensément.",
-            "image": "../images/savon_safran_brebis.jpg"
+            "image": "images/savon_safran_brebis.jpg"
         },
         {
             "id": 20,
@@ -159,7 +159,7 @@
             "categorie": "savons",
             "prix": 1800,
             "description": "Fraîcheur et antioxydant. Idéal pour les peaux fatiguées ou mixtes. Rafraîchit et tonifie.",
-            "image": "../images/savon_the_menthe.jpg"
+            "image": "images/savon_the_menthe.jpg"
         },
         {
             "id": 21,
@@ -167,7 +167,7 @@
             "categorie": "masques",
             "prix": 3900,
             "description": "Éclat et vitalité. Idéal pour les peaux ternes. La grenade est riche en antioxydants.",
-            "image": "../images/masque_argile_rouge_grenade.jpg"
+            "image": "images/masque_argile_rouge_grenade.jpg"
         },
         {
             "id": 22,
@@ -175,7 +175,7 @@
             "categorie": "masques",
             "prix": 3500,
             "description": "Nourrissant et apaisant. Idéal pour les peaux sèches ou fatiguées.",
-            "image": "../images/masque_citrouille_miel.jpg"
+            "image": "images/masque_citrouille_miel.jpg"
         },
         {
             "id": 23,
@@ -183,7 +183,7 @@
             "categorie": "masques",
             "prix": 4200,
             "description": "Détox profond et reminéralisant. La figue adoucit et illumine la peau.",
-            "image": "../images/masque_boue_figue.jpg"
+            "image": "images/masque_boue_figue.jpg"
 },
 {
             "id": 24,
@@ -191,7 +191,7 @@
             "categorie": "huiles",
             "prix": 3900,
             "description": "Régénérante, apaise les peaux irritées. Riche en oméga-3.",
-            "image": "../images/huile_lin.jpg"
+            "image": "images/huile_lin.jpg"
 },
 {
             "id": 25,
@@ -199,7 +199,7 @@
             "categorie": "huiles",
             "prix": 4000,
             "description": "Tonifiante et réchauffante. Idéale pour le visage et le corps.",
-            "image": "../images/huile_gingembre_sesame.jpg"
+            "image": "images/huile_gingembre_sesame.jpg"
 },
 {
             "id": 26,
@@ -207,7 +207,7 @@
             "categorie": "huiles",
             "prix": 5500,
             "description": "Apaise les rougeurs et l'eczéma. Riche en acides gras essentiels.",
-            "image": "../images/huile_onagre.jpg"
+            "image": "images/huile_onagre.jpg"
 },
         {
             "id": 27,
@@ -215,7 +215,7 @@
             "categorie": "coffrets",
             "prix": 5900,
             "description": "Savon à la Lavande & Miel + Huile de Romarin & Olive + Masque à l'Argile Blanche. Idéal pour se ressourcer.",
-            "image": "../images/coffret_bien_etre.jpg"
+            "image": "images/coffret_bien_etre.jpg"
         },
         {
             "id": 28,
@@ -223,7 +223,7 @@
             "categorie": "coffrets",
             "prix": 7200,
             "description": "Huile d'Argan du Sud + Savon à l'Huile d'Olive Vierge + Gommage visage à la poudre de figue. Les incontournables de la beauté kabyle.",
-            "image": "../images/coffret_authentique.jpg"
+            "image": "images/coffret_authentique.jpg"
         }
         
     ]
