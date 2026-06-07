@@ -46,11 +46,3 @@ Toutes les pages partagent un menu de navigation commun.
 8. Remplir le formulaire de livraison et valider la commande
 
   
-. HÉBERGEMENT (optionnel)
-========================================
-
-[À compléter si déployé sur GitHub Pages ou Netlify]
-
-9. Enseignantes:
-Mme Bousnina
-Melle Moudir
