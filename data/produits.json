@@ -6,7 +6,7 @@
             "categorie": "huiles",
             "prix": 5500,
             "description": "Vierge pressée à froid, riche en vitamine E",
-            "image": "../images/argan_sud.jpg"
+            "image": "images/argan_sud.jpg"
         },
         {
             "id": 2,
