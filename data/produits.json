@@ -6,7 +6,7 @@
             "categorie": "huiles",
             "prix": 5500,
             "description": "Vierge pressée à froid, riche en vitamine E",
-            "image": "https://dehbia26.github.io/djurdjura_skin/images/argan_sud.jpg"
+            "image": "../images/argan_sud.jpg"
         },
         {
             "id": 2,
@@ -14,7 +14,7 @@
             "categorie": "huiles",
             "prix": 6500,
             "description": "Anti-âge puissant, éclat immédiat",
-            "image": "images/serum_figue.jpg"
+            "image": "../images/serum_figue.jpg"
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
             "categorie": "huiles",
             "prix": 4800,
             "description": "Hydratation légère, idéale peaux sensibles, Riche en vitamines A et E",
-            "image": "images/huile_abricot.jpg"
+            "image": "../images/huile_abricot.jpg"
         },
         {
             "id": 4,
@@ -30,7 +30,7 @@
             "categorie": "savons",
             "prix": 1600,
             "description": "Pur, surgras, pour toute la famille",
-            "image": "images/savon_olive_vierge.jpg"
+            "image": "../images/savon_olive_vierge.jpg"
         },
         {
             "id": 5,
@@ -38,7 +38,7 @@
             "categorie": "savons",
             "prix": 1800,
             "description": "Douceur nourrissante au miel authentique",
-            "image": "images/savon_miel.jpg"
+            "image": "../images/savon_miel.jpg"
         },
         {
             "id": 6,
@@ -46,7 +46,7 @@
             "categorie": "savons",
             "prix":1700 ,
             "description": "Purifiant doux, idéal peaux mixtes",
-            "image": "images/savon_argile_kabylie.jpg"
+            "image": "../images/savon_argile_kabylie.jpg"
         },
         {
             "id": 7,
@@ -54,7 +54,7 @@
             "categorie": "savons",
             "prix": 1900,
             "description": "Adoucissant, respecte les peaux sensibles",
-            "image": "images/savon_lait_chèvre.jpg "
+            "image": "../images/savon_lait_chèvre.jpg "
         },
         {
             "id": 8,
@@ -62,7 +62,7 @@
             "categorie": "masques",
             "prix": 3500,
             "description": "Purifiant, illuminateur, effet bonne mine",
-            "image": "images/masque_argile_miel.jpg"
+            "image": "../images/masque_argile_miel.jpg"
         },
         {
             "id": 9,
@@ -70,7 +70,7 @@
             "categorie": "masques",
             "prix": 9000,
             "description": "Nutrition intense, réparation cutanée",
-            "image": "images/baume_atlas.jpg"
+            "image": "../images/baume_atlas.jpg"
         },
         
         {
